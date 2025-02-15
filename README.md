@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tanneriabhi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13sK0GEW3TRuWwB9G2D9t313xaq2KIY5M/view?usp=sharing](https://drive.google.com/file/d/13sK0GEW3TRuWwB9G2D9t313xaq2KIY5M/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1F_E6Meeicdobq3th0Q6ifd7E9zm_LDo_/view](https://drive.google.com/file/d/1F_E6Meeicdobq3th0Q6ifd7E9zm_LDo_/view)
 
 
 <h3>Github Trophies</h3>
