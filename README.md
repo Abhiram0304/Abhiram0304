@@ -17,7 +17,7 @@
 <h3>Github Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram0304" alt="abhiram0304" /></a> </p>
 <h3 align="left">Languages & Tools</h3>
-<div style="width: 100%; background: white; border-radius: 12px; padding: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
