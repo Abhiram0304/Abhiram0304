@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhiram T</h1>
-<h3 align="center">I’m a Full Stack Developer who is always excited to go through the bugs inside the codes.</h3>
+<h3 align="center">I’m a Full Stack Developer passionate about building scalable web and mobile apps. I enjoy solving real-world problems, debugging tough issues, and constantly learning new technologies.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhiram0304&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram0304" /> </p>
 
-- 🌱 I’m currently learning **TypeScript and Next.js**
+- 🌱 I’m currently learning **WebRTC and Next.js**
 
-- 💬 Ask me about **MERN Stack and DSA**
+- 💬 Ask me about **MERN Stack, scalable backend systems, WebRTC, AWS integrations, and DSA**
 
 - 📫 How to reach me **tanneriabhi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F_E6Meeicdobq3th0Q6ifd7E9zm_LDo_/view](https://drive.google.com/file/d/1F_E6Meeicdobq3th0Q6ifd7E9zm_LDo_/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1USS1LSJwwej-ONZpAbWDfJ088crrI77k/view?usp=sharing](https://drive.google.com/file/d/1USS1LSJwwej-ONZpAbWDfJ088crrI77k/view?usp=sharing)
 
 
 <h3>Github Trophies</h3>
